@@ -45,15 +45,18 @@ This repository contains my JavaScript learning journey, including:
 ├── 11-todo-list.html                 # Todo list app
 ├── 12-advance-function.html          # Advanced functions
 ├── 12-rock-paper-secisor  .html      # RPS Game v6
+├── 12-todo-list .html                # Todo list app v2
 ├── images/                           # Game emojis (rock, paper, scissors)
 ├── scripts/                          # JavaScript files
 │   ├── 10-rock-paper-scissor.js
 │   ├── 11-todo-list.js
 │   └── 12-rock-paper-scissor .js
+│   └── 12-todo-list .js
 └── style/                            # CSS stylesheets
     ├── 10-rock-paper-sicssor.css
     ├── 11-todo-list.css
     └── 12-rock-paper-sicssor .css
+    └── 12-todo-list .css
 ```
 
 ## 🚀 Getting Started
@@ -93,7 +96,7 @@ Each file represents a step in the learning journey. Files are numbered to show 
 Multiple iterations (v1-v6) showing progression in complexity and features.
 
 ### Todo List Application
-A complete CRUD application demonstrating DOM manipulation and local storage concepts.
+A complete CRUD application demonstrating DOM manipulation and local storage concepts, with both the original and updated version included in this repository.
 
 ## 📝 Notes
 
